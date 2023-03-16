@@ -9,5 +9,5 @@
 
 ### **Github**
 
-1. Add BORS Merge / Cancel button in pull request page
-2. Change the Github Action text to say _Destination Branch_ instead of _Use workflow from_
+1. Add BORS Merge / Cancel button in pull request page - [Install](https://greasyfork.org/en/scripts/461964-github-bors-merge)
+2. Change the Github Action text to say _Destination Branch_ instead of _Use workflow from_ - [Install](https://greasyfork.org/en/scripts/461965-run-workflow-label-enhancer)
